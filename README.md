@@ -4,7 +4,7 @@
 
 <p align="left">Hi there 👋<br><br>✨ About Me<br><br>I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain technology. I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.</p>
 
-###
+## 👩‍💻 Languages
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -204,13 +204,13 @@
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=flat" />
 </p>
 
-## 📅 Scheduling Automation Platforms
+<!-- ## 📅 Scheduling Automation Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" />
 </p>
-  
-###
+
+### -->
 
 <br clear="both">
 
