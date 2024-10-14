@@ -1,4 +1,4 @@
-<h3 align="center">I am from Calgary, AB, Canada.</h3>
+<h3 align="center">🖐Creative & Sensitive Full-Stack Developer🖐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldenstatefence&label=Profile%20views&color=0e75b6&style=flat" alt="goldenstatefence" /> </p>
 
