@@ -212,6 +212,8 @@
 
 ### -->
 
+# 📊 Stats and Activity
+
 <br clear="both">
 
 <div align="center">
