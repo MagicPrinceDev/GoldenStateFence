@@ -6,6 +6,7 @@
 
 ###
 
+<!-->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -129,7 +130,87 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
 </div>
+-->
+## 🚀 Frameworks & Library
 
+#### **_ Web Frameworks and Libraries _**
+
+<p  align="center">
+  <img src="https://img.shields.io/badge/web3%20js-F16822?style=flat&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=flat&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=Svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+#### **_ CSS Frameworks & UI Components _**
+
+<p  align="center">
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/postcss-DD3A0A?style=flat&logo=postcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flat&logo=antdesign&logoColor=white" />
+  <img src="ttps://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+</p>
+
+#### **_ HTTP Management _**
+
+<p  align="center">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white" />
+</p>
+
+## ⚡ Database
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018bff?style=flat&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+</p>
+
+## 🔗 Blockchain
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=flat&logo=binance&logoColor=000" />
+  <img src="https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=polkadot&logoColor=000" />
+  <img src="https://img.shields.io/badge/chainlink-375BD2?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/dogecoin-C2A633?style=flat&logo=dogecoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/tether-168363?style=flat&logo=tether&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=flat" />
+</p>
+
+## 📅 Scheduling Automation Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" />
+</p>
+  
 ###
 
 <br clear="both">
